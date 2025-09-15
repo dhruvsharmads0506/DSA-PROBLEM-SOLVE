@@ -8,3 +8,4 @@ STACK QUESTION -
 
 Q1 stack using STL in C++ = [CLICK HERE TO VIEW](https://github.com/dhruvsharmads0506/DSA-PROBLIC-SOLVE/blob/main/STACK/stl.cpp) <br>
 Q2 Design a data structure, which represents two stacks using only one array common for both stacks = [CLICK HERE TO VIEW ](https://github.com/dhruvsharmads0506/DSA-PROBLIC-SOLVE/blob/main/STACK/twostack.cpp)
+Q2 Delete middle element from stack  = [CLICK HERE TO VIEW ](https://github.com/dhruvsharmads0506/DSA-PROBLIC-SOLVE/blob/main/STACK/middlenode.cpp)
