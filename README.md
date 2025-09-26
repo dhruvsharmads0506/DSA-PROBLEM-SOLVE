@@ -4,8 +4,9 @@ DSA QUESTIONS LIST :
 Array Problems -
 <br>
 <br>
-P-1 3Sum = [CLICK HERE TO VIEW](https://github.com/dhruvsharmads0506/DSA-PROBLIC-SOLVE/blob/main/ARRAY/3sum.cpp)
-
+P-1 3Sum = [CLICK HERE TO VIEW](https://github.com/dhruvsharmads0506/DSA-PROBLIC-SOLVE/blob/main/ARRAY/3sum.cpp) <br>
+P-2 Container With Most Water = [CLICK HERE TO VIEW](https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/ARRAY/maxwater.cpp) 
+ 
 Recursion Problems -
 
 P-1 Implement pow(x, n), which calculates x raised to the power n (i.e., xn). [CLICK HERE TO VIEW](https://github.com/dhruvsharmads0506/DSA-PROBLIC-SOLVE/blob/main/Recursion%20Problems/powx%2Cn.cpp) <br>
