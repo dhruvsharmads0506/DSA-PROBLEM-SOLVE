@@ -14,6 +14,7 @@ P-1 Implement pow(x, n), which calculates x raised to the power n (i.e., xn). [C
 LinkList Problems -
 
 P-1 Sort a link list ( using Merge Sort ) = [CLICK HERE TO VIEW](https://github.com/dhruvsharmads0506/DSA-PROBLIC-SOLVE/blob/main/Link%20-List/MergeSort.cpp)
+P-2 Merge Two Sorted Lists = [CLICK HERE TO VIEW](https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Link%20-List/mergeList.cpp)
 
 STACK Problems -
 
