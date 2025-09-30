@@ -8,7 +8,7 @@ P-1 3Sum = [CLICK HERE TO VIEW](https://github.com/dhruvsharmads0506/DSA-PROBLIC
 P-2 Container With Most Water = [CLICK HERE TO VIEW](https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/ARRAY/maxwater.cpp) 
 <br>
 <br>
-Binary Search Problem -
+Binary Search Problem - <br>
 P-1 Sqrt(x) = [CLICH HERE TO VIEW](https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Binary%20Search/sqrt.cpp)
  
 Recursion Problems -
