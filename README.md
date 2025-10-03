@@ -31,8 +31,8 @@ P-4 Check Valid Parentheses using Stack = [CLICK HERE TO VIEW ](https://github.c
 <br>
 <br>
 Tree Problems - 
-P-1 Binary Tree Postorder Traversal = [CLICK HERE TO VIEW](https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Tree/PostOrder.cpp) 
+P-1 Binary Tree Postorder Traversal = [CLICK HERE TO VIEW](https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/PostOrder.cpp) 
 <br>
-P-2 Binary Tree Preorder Traversal  = [CLICK HERE TO VIEW](https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/edit/main/Tree/PreOrder.cpp)
+P-2 Binary Tree Preorder Traversal  = [CLICK HERE TO VIEW](https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/edit/main/TREE/PreOrder.cpp)
 <br>
 P-3 Binary Tree Inorder Traversal   = [CLICK HERE TO VIEW](https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/InOrder.cpp)
