@@ -13,6 +13,7 @@ P-1 Sqrt(x) = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/bl
 <h2>Recursion Problems -</h2>
 <br>
 P-1 Implement pow(x, n) = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Recursion%20Problems/powx%2Cn.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
+P-1 Longest Common Subsequence = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Recursion%20Problems/LCS.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
 
 <h2>Linked List Problems -</h2>
 <br>
