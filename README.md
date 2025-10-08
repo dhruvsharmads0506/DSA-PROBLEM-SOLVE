@@ -9,6 +9,7 @@ P-2 Container With Most Water = <a href="https://github.com/dhruvsharmads0506/DS
 <h2>Binary Search Problem -</h2>
 <br>
 P-1 Sqrt(x) = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Binary%20Search/sqrt.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
+P-2 Sqrt(x) = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/tree/main/Binary%20Search/" target="_blank">CLICK HERE TO VIEW</a><br>
 
 <h2>Recursion Problems -</h2>
 <br>
