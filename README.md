@@ -33,4 +33,4 @@ P-4 Check Valid Parentheses using Stack = <a href="https://github.com/dhruvsharm
 P-1 Binary Tree Postorder Traversal = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/PostOrder.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
 P-2 Binary Tree Preorder Traversal = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/PreOrder.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
 P-3 Binary Tree Inorder Traversal = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/InOrder.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
-P-3 Count Leaf Node  = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/CountLeafNodes.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
+P-4 Count Leaf Node  = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/CountLeafNodes.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
