@@ -35,3 +35,4 @@ P-2 Binary Tree Preorder Traversal = <a href="https://github.com/dhruvsharmads05
 P-3 Binary Tree Inorder Traversal = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/InOrder.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
 P-4 Count Leaf Node  = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/CountLeafNodes.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
 P-5 Maximum Depth of Binary Tree  = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/HeightOFTree.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
+P-5 Same or Identical Tree   = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/SameTree.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
