@@ -12,7 +12,7 @@ P-1 Sqrt(x) = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/bl
 P-2 Successful Pairs of Spells and Potions = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Binary%20Search/SpellsandPotions.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
 <h2>Bit Manipulation-</h2>
 <br>
-P-1 Sqrt(x) = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Binary%20Search/sqrt.cpp" target="_blank">CLICK HERE TO VIEW</a><br> 
+P-1 Power Of Two = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Bit%20Manipulation/PowerOfTwo.cpp" target="_blank">CLICK HERE TO VIEW</a><br> 
 P-2 Count Bits = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Bit%20Manipulation/CountBit.cp" target="_blank">CLICK HERE TO VIEW</a><br>
 
 <h2>Recursion Problems -</h2>
