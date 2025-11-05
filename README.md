@@ -15,12 +15,12 @@ P-2 Successful Pairs of Spells and Potions = <a href="https://github.com/dhruvsh
 P-1 Power Of Two = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Bit%20Manipulation/PowerOfTwo.cpp" target="_blank">CLICK HERE TO VIEW</a><br> 
 P-2 Count Bits = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Bit%20Manipulation/CountBit.cp" target="_blank">CLICK HERE TO VIEW</a><br>
 P-3 Bitwise AND of Numbers Range = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Bit%20Manipulation/BitwiseANDofNumbersRange.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
-P-4 Single Number – Given a non-empty array of integers where every element appears twice except for one, find that single one.
+P-4 Single Number 
  = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Bit%20Manipulation/SingleNumber.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
-P-5 Single Number – Given a non-empty array of integers where every element appears twice except for one, find that single one.
- = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Bit%20Manipulation/SingleNumber.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
-P-6 Single Number – Given a non-empty array of integers where every element appears twice except for one, find that single one.
- = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Bit%20Manipulation/SingleNumber.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
+P-5 Single Number II 
+= <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Bit%20Manipulation/SingleNumber2.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
+P-6 Single Number III
+= <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/Bit%20Manipulation/SingleNumber3.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
 
 <h2>Recursion Problems -</h2>
 <br>
