@@ -40,10 +40,13 @@ P-3 Delete middle element from stack = <a href="https://github.com/dhruvsharmads
 P-4 Check Valid Parentheses using Stack = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/STACK/parenthesis.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
 
 <h2>Tree Problems -</h2>
-<br>
+<h2>Binary Tree -</h2> <br>
 P-1 Binary Tree Postorder Traversal = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/PostOrder.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
 P-2 Binary Tree Preorder Traversal = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/PreOrder.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
 P-3 Binary Tree Inorder Traversal = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/InOrder.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
 P-4 Count Leaf Node  = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/CountLeafNodes.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
 P-5 Maximum Depth of Binary Tree  = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/HeightOFTree.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
 P-5 Same or Identical Tree   = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/SameTree.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
+<h2>Binary Search Tree -</h2>
+<br>
+P-1 Binary Search Tree Implementation   = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/TREE/BinarySearchTree.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
