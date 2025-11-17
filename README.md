@@ -5,6 +5,7 @@
 <br>
 P-1 3Sum = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/ARRAY/3sum.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
 P-2 Container With Most Water = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/ARRAY/maxwater.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
+P-2 Insert Interval = <a href="https://github.com/dhruvsharmads0506/DSA-PROBLEM-SOLVE/blob/main/ARRAY/Insert-Interval.cpp" target="_blank">CLICK HERE TO VIEW</a><br>
 
 <h2>Binary Search Problem -</h2>
 <br>
